@@ -1,0 +1,13 @@
+connect positive led of IR to pin number 5 and the ground to ground
+
+connect the red light positive to pin number 5 from back (19) and ground to ground 
+
+connect green light positive to 5 vold positive and ground to ground
+
+connect pin 7 to 5 volt and pin 8 to ground
+
+connect USB flash on top pin 1 vcc and pin 2 TX
+to vcc and pin number 2 on chip Rx.
+
+also the ground of USB is on the back pin 2 connect
+it to ground of the PCB.

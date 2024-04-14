@@ -1,0 +1,6 @@
+Ex : xFD
+Hi  :xDA
+Lo  :xFF
+
+///lock bit :
+xCF
