@@ -1,0 +1,296 @@
+#######################################
+# Syntax Coloring Map For Isobot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Isobot	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+receivecode	KEYWORD2
+buttonwrite	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+forward	LITERAL1
+
+ backward	LITERAL1
+
+sideright	LITERAL1
+
+sideleft	LITERAL1
+
+fleft	LITERAL1
+
+fright	LITERAL1
+
+bleft	LITERAL1
+
+bright	LITERAL1
+
+fclockwise	LITERAL1
+
+fcounter	LITERAL1
+
+bclockwise	LITERAL1
+
+bcounter	LITERAL1
+
+headleft	LITERAL1
+
+headright	LITERAL1
+
+leanforward	LITERAL1
+
+leanback	LITERAL1
+
+lpunch	LITERAL1
+
+r12	LITERAL1
+
+lchop	LITERAL1
+
+sidechopl	LITERAL1
+
+combopunch	LITERAL1
+
+rpunch	LITERAL1
+
+rchop	LITERAL1
+
+l12	LITERAL1
+
+sidechopr	LITERAL1
+
+lbackhand	LITERAL1
+
+doublechop	LITERAL1
+
+doublebackhand	LITERAL1
+
+slapping	LITERAL1
+
+rbackhand	LITERAL1
+
+upperchop	LITERAL1
+
+roundhousel	LITERAL1
+
+roundhouser	LITERAL1
+
+forwardkickl	LITERAL1
+
+forwardkickr	LITERAL1
+
+sidekickl	LITERAL1
+
+roundhouselr	LITERAL1
+
+forwardkicklr	LITERAL1
+
+combokick	LITERAL1
+
+sidekickr	LITERAL1
+
+backkickl	LITERAL1
+
+backkickr	LITERAL1
+
+highkickl	LITERAL1
+
+highkickr	LITERAL1
+
+splits1	LITERAL1
+
+guardl	LITERAL1
+
+guardr	LITERAL1
+
+doubleguard1	LITERAL1
+
+doubleguard2	LITERAL1
+
+dodgel	LITERAL1
+
+dodger	LITERAL1
+
+duck	LITERAL1
+
+swayback	LITERAL1
+
+upblock	LITERAL1
+
+splits2	LITERAL1
+
+comboblock	LITERAL1
+
+zero	LITERAL1
+
+homeposition	LITERAL1
+
+soundoff	LITERAL1
+
+affirm	LITERAL1
+
+disagree	LITERAL1
+
+goodmorning	LITERAL1
+
+greet1	LITERAL1
+
+greet2	LITERAL1
+
+greet3	LITERAL1
+
+greet4	LITERAL1
+
+bye1	LITERAL1
+
+bye2	LITERAL1
+
+bye3	LITERAL1
+
+bye4	LITERAL1
+
+bye5	LITERAL1
+
+respect	LITERAL1
+
+thanks1	LITERAL1
+
+thanks2	LITERAL1
+
+love1	LITERAL1
+
+love2	LITERAL1
+
+love3	LITERAL1
+
+standupfront	LITERAL1
+
+standupback	LITERAL1
+
+excited1	LITERAL1
+
+excited2	LITERAL1
+
+excited3	LITERAL1
+
+excited4	LITERAL1
+
+party	LITERAL1
+
+amazed	LITERAL1
+
+regret1	LITERAL1
+
+regret2	LITERAL1
+
+regret3worry	LITERAL1
+
+pain1	LITERAL1
+
+pain2	LITERAL1
+
+beg1	LITERAL1
+
+beg2	LITERAL1
+
+merry	LITERAL1
+
+hilarious	LITERAL1
+
+hidenseek	LITERAL1
+
+youlike	LITERAL1
+
+mystery5	LITERAL1
+
+tipsy	LITERAL1
+
+tickleme	LITERAL1
+
+tiredfeet	LITERAL1
+
+needabreak	LITERAL1
+
+wave1	LITERAL1
+
+wave2	LITERAL1
+
+applause	LITERAL1
+
+mystery6	LITERAL1
+
+toosexy	LITERAL1
+
+clink	LITERAL1
+
+relax	LITERAL1
+
+soccer1	LITERAL1
+
+soccer2	LITERAL1
+
+soccer3	LITERAL1
+
+lift	LITERAL1
+
+countonme	LITERAL1
+
+articulation	LITERAL1
+
+showoff1	LITERAL1
+
+showoff2	LITERAL1
+
+showoff3	LITERAL1
+
+showoff4	LITERAL1
+
+cominthrough	LITERAL1
+
+catch	LITERAL1
+
+pose1	LITERAL1
+
+pose2	LITERAL1
+
+pose3	LITERAL1
+
+mystery1	LITERAL1
+
+mystery2	LITERAL1
+
+mystery3	LITERAL1
+
+mystery4	LITERAL1
+
+forwardsomersault	LITERAL1
+
+headstandexercises	LITERAL1
+
+exercises	LITERAL1
+
+airdrum	LITERAL1
+
+airguitar	LITERAL1
+
+randomperformance1	LITERAL1
+
+randomanimal	LITERAL1
+
+tropicaldance	LITERAL1
+
+giantrobot	LITERAL1
+
+western	LITERAL1
+
+randomperformance2	LITERAL1

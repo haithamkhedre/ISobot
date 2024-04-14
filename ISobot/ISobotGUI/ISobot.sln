@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISobot", "ISobot\ISobot.csproj", "{5171AAAE-E8C6-4E44-AD49-99B7B49C6B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISobotGUI", "ISobotGUI\ISobotGUI.csproj", "{F0E5F842-B571-4803-81C2-925440D09928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5171AAAE-E8C6-4E44-AD49-99B7B49C6B5C}.Debug|x86.ActiveCfg = Debug|x86
+		{5171AAAE-E8C6-4E44-AD49-99B7B49C6B5C}.Debug|x86.Build.0 = Debug|x86
+		{5171AAAE-E8C6-4E44-AD49-99B7B49C6B5C}.Release|x86.ActiveCfg = Release|x86
+		{5171AAAE-E8C6-4E44-AD49-99B7B49C6B5C}.Release|x86.Build.0 = Release|x86
+		{F0E5F842-B571-4803-81C2-925440D09928}.Debug|x86.ActiveCfg = Debug|x86
+		{F0E5F842-B571-4803-81C2-925440D09928}.Debug|x86.Build.0 = Debug|x86
+		{F0E5F842-B571-4803-81C2-925440D09928}.Release|x86.ActiveCfg = Release|x86
+		{F0E5F842-B571-4803-81C2-925440D09928}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
